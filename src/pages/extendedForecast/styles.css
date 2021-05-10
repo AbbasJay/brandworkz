@@ -1,0 +1,28 @@
+.weather-container {
+  width: 700px;
+  margin: auto;
+}
+
+.input-container {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.input-container__min {
+  margin-right: 12px;
+}
+
+.loading {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.error {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}

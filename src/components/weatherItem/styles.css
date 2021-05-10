@@ -1,0 +1,24 @@
+.weather-item {
+  display: flex;
+  border-bottom: 1px solid black;
+  box-sizing: border-box;
+  padding-left: 40px;
+}
+
+.weather-item:hover {
+  background-color: lightgray;
+  transition: 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+.weather-item__temp {
+  margin-right: 4px;
+}
+.weather-item__desc {
+  margin-right: 4px;
+}
+
+.icon-container {
+  display: flex;
+  align-items: center;
+}

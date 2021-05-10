@@ -1,0 +1,19 @@
+.nav-route {
+  display: flex;
+  justify-content: center;
+  background-color: lightgray;
+  padding: 12px 0;
+}
+
+.page-link__local {
+  margin-right: 20px;
+  text-decoration: none;
+  color: black;
+  font-size: 24px;
+}
+
+.page-link__16day {
+  text-decoration: none;
+  color: black;
+  font-size: 24px;
+}
